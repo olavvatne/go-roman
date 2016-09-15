@@ -6,8 +6,7 @@ Open browser and goto http://localhost:8000
 Replace localhost with the name or IP of your DockerHost.
 
 ## Run with docker
-Testing jenkings squash pushing to integration branch
-
+TESTING TESTING TESTING
 Build the image:
 
     docker build -t myapp .
