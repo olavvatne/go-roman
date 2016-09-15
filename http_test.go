@@ -8,7 +8,7 @@ import (
 )
 
 func TestRomanOne(t *T) {
-    t.Fatalf("FAILED: %d", w.Code)
+  
     // We first create the http.Handler we wish to test
     n := romanGenerator(1)
 
